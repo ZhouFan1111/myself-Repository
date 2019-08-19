@@ -1,0 +1,29 @@
+/* Write your styles */
+/*重置*/
+/** {
+	font-family: "微软雅黑";
+	color: #333;
+}
+
+body, span, dl, dd {
+	margin: 0;
+}
+h1, h2, h3, h4, h5 {
+	margin: 0;
+	font-weight: normal;
+	padding: 0;
+}*/
+.main{max-width:650px; margin:0 auto;}
+h1{line-height:60px; font-size:24px;text-align:center}
+p{ font-size:14px;}
+.am-form-group{ margin:40px auto;}
+.am-form-group .am-radio{max-width:240px; margin:30px auto;}
+.btn{margin:20px auto;text-align:center;}
+.btn li{ display:inline-block; width:150px; line-height:32px; margin:10px 40px}
+.btn .go{ background:#0e90d2; border-radius:4px; color:white; text-align:center; font-size:14px;}
+.btn .go:hover{  background:#009FE8;color:white;}
+.btn .go [class*=am-icon-]{color:white;}
+.btn .back{ background:white;border:1px solid #ccc;color:#333; border-radius:4px; text-align:center;font-size:14px;}
+.btn .back:hover{ background:#EBEBEB;}
+.yinlian, .zhifubao{max-width:650px; margin:0 auto; margin-top:40px; }
+.yinlian img , .zhifubao img{margin:0 auto;}
